@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.App > h1 {
+  text-align: center;
+}
+
+.input-field {
+  box-sizing: border-box;
+  padding: 16px;
+  margin: 16px;
+  font-size: 16px;
+}
+
+.submit-btn {
+  width: 92%;
+  padding: 16px;
+  margin: 16px;
+  font-size: 16px;
+  color: white;
+  background-color: #24a0ed;
+  border: none;
+  border-radius: 4px;
+}
+
